@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Gear Ring (Vibrant Blue #3182F6) -->
+    <path
+        android:fillColor="#3182F6"
+        android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,69.46 38.54,82 54,82 C69.46,82 82,69.46 82,54 C82,38.54 69.46,26 54,26 Z M54,76 C41.85,76 32,66.15 32,54 C32,41.85 41.85,32 54,32 C66.15,32 76,41.85 76,54 C76,66.15 66.15,76 54,76 Z" />
+        
+    <!-- Gear Teeth (8 Outer Blocks representing Industrial Process) -->
+    <path android:fillColor="#3182F6" android:pathData="M51,20h6v7h-6z" />
+    <path android:fillColor="#3182F6" android:pathData="M51,81h6v7h-6z" />
+    <path android:fillColor="#3182F6" android:pathData="M20,51h7v6h-7z" />
+    <path android:fillColor="#3182F6" android:pathData="M81,51h7v6h-7z" />
+    <path android:fillColor="#1B64DA" android:pathData="M31.5,31.5 l4.24,4.24l-4.24,4.24l-4.24,-4.24z" />
+    <path android:fillColor="#1B64DA" android:pathData="M72.26,72.26 l4.24,4.24l-4.24,4.24l-4.24,-4.24z" />
+    <path android:fillColor="#1B64DA" android:pathData="M31.5,76.5 l4.24,-4.24l4.24,4.24l-4.24,4.24z" />
+    <path android:fillColor="#1B64DA" android:pathData="M76.5,31.5 l-4.24,4.24l-4.24,-4.24l4.24,-4.24z" />
+
+    <!-- Clock Hour Hand - Target Clock (Bright Orange #FF6B35) -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M54,36 C55.1,36 56,36.9 56,38 V54 H52 V38 C52,36.9 52.9,36 54,36 Z" />
+        
+    <!-- Clock Minute Hand - Target Clock (Clean White #FFFFFF) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,52 H68 C69.1,52 70,52.9 70,54 C70,55.1 69.1,56 68,56 H54 Z" />
+        
+    <!-- Center Hub Pin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,49 C56.76,49 59,51.24 59,54 C59,56.76 56.76,59 54,59 C51.24,59 49,56.76 49,54 C49,51.24 51.24,49 54,49 Z" />
+</vector>

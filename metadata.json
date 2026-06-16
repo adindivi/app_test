@@ -1,0 +1,6 @@
+{
+  "name": "공정 도착시간 계산기",
+  "description": "쉬는 시간 스케줄이 자동으로 공제 및 반영되는 스마트 공정 도착/시작시간 계산 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
